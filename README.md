@@ -1,2 +1,2 @@
-# Hello i'm ioio
+# Hello!
 I don't really do much currently.
